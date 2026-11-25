@@ -28,11 +28,11 @@
 <br clear="right" />
 
 ### ✦ Контакты
-
-Личный канал, через который можно со мной связаться. <br />
 <a href="https://t.me/MChan_ch">
   <img src="https://img.shields.io/badge/@MChan_ch-E95687?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал M-chan" />
-</a>
+</a> <br />
+Личный канал, через который можно со мной связаться. 
+
 
 <br />
 
@@ -40,6 +40,3 @@
   <sub>♪ Бывает же такое ♡</sub>
 </p>
 
-<p align="center">
-  <img src="assets/codemiku.png" alt="Мику из символов кода" width="50%" />
-</p>
