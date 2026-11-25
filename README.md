@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="assets/banner-gaming.png" alt="M-chan — Python, VBA, Apps Script и Telegram Bots" width="100%" />
+  <img src="assets/banner-aino.png" alt="Баннер M-chan с Айно" width="100%" />
 </p>
 
 <h1 align="center">˗ˏˋ M-chan здесь! ♡ ˎˊ˗</h1>
 
 <p align="center">
   ⊹₊˚‧︵‿₊୨୧₊‿︵‧˚₊ㅤㅤㅤ⊹
-  <img src="https://img.shields.io/badge/Python-39C5BB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/VBA-65BFB8?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
-  <img src="https://img.shields.io/badge/Apps%20Script-7EA9D8?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-8A8FC7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/Python-FF6F9F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VBA-D98BC8?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/Apps%20Script-B79CDC?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-94AB3F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
   ⊹ㅤㅤㅤ₊˚‧︵‿₊୨୧₊‿︵‧˚₊⊹
 </p>
 
-<img align="right" src="assets/miku-hug-pastel.png" alt="Чиби Мику приветствует гостей" width="255" />
+<img align="right" src="assets/aino-chibi.png" alt="Чиби Айно приветствует гостей" width="255" />
 
 ### ✦ Обо мне
 
@@ -34,7 +34,7 @@
 
 Личный канал, через который можно со мной связаться. <br />
 <a href="https://t.me/MChan_ch">
-  <img src="https://img.shields.io/badge/@MChan_ch-39C5BB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал M-chan" />
+  <img src="https://img.shields.io/badge/@MChan_ch-E95687?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал M-chan" />
 </a>
 
 <br />
