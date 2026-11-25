@@ -7,6 +7,7 @@
 <p align="center">
   ⊹₊˚‧︵‿₊୨୧₊‿︵‧˚₊ㅤㅤㅤ⊹
   <img src="https://img.shields.io/badge/Python-FF6F9F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-C18A3F?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/VBA-D98BC8?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
   <img src="https://img.shields.io/badge/Apps%20Script-B79CDC?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-94AB3F?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
